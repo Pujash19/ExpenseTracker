@@ -23,6 +23,6 @@ Text-editors used: VS Code
 
 ## Screenshots
 
-![Screenshot (28)](https://user-images.githubusercontent.com/72096769/156885410-05944a5c-a910-49d3-a8f9-45445d5fe271.png)
-![Screenshot (29)](https://user-images.githubusercontent.com/72096769/156885415-bdb16e71-10bb-4539-b8e6-6f037182291d.png)
+![Screenshot (28)](https://github.com/Pujash19/ExpenseTracker/blob/main/Expense-Tracker/Screenshot%20(28).png)
+![Screenshot (29)](https://github.com/Pujash19/ExpenseTracker/blob/main/Expense-Tracker/Screenshot%20(29).png)
 
